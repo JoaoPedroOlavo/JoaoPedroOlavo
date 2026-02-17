@@ -1,18 +1,27 @@
-### Hi there, I'm João Matos 👋
-**Computer Science Student & Systems Engineering Enthusiast**
+## Hi, I'm João Matos 👋
 
-I focus on building high-performance infrastructure, understanding operating system internals, and creating tools that solve complex backend problems.
+Mathematics student focused on Data Science & AI.
+I build practical machine learning projects and data-driven solutions.
 
-🛠 **Tech Stack & Interests**
-* **Languages:** C++20, Python, Bash.
-* **Systems:** Linux (Pop!_OS/Debian), Kernel Syscalls, Networking.
-* **Infrastructure:** Docker, Containerization, Basic Orchestration.
-* **Tools:** Git, CMake, Neovim/VSCode.
+### 🚀 Main focus
+- Machine Learning
+- Predictive modeling
+- Data analysis
+- Applied mathematics
 
-🚀 **Currently Working On**
-* Developing a custom **Container Orchestrator** from scratch using C++ system calls.
-* Deep diving into **Linux Kernel** architecture and **Network Protocols** (TCP/IP).
+### 🧠 Tech stack
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Power BI
+- Git / GitHub
 
-📫 **Contact**
-* [LinkedIn](www.linkedin.com/in/joao-pedro-matos-13j10p)
-* [Email](joaopedroolavo@outlook.com)
+### 📌 Featured projects
+- House Price Prediction (End-to-End ML)
+- Diabetes Risk Prediction
+- Mini Docker Server
+
+### 🌐 Portfolio
+https://personal-portfolio-smoky-seven-54.vercel.app
+
+### 📫 Contact
+- LinkedIn: linkedin.com/in/joao-pedro-matos-13j10p
