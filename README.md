@@ -1,6 +1,6 @@
 ## Hi, I'm João Matos 👋
 
-Mathematics student focused on Data Science & AI.
+Computer Engineer student focused on Data Science & AI.
 I build practical machine learning projects and data-driven solutions.
 
 ### 🚀 Main focus
